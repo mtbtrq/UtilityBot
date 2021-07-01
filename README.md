@@ -1,3 +1,6 @@
+A Discord Utility Bot that you can use / fork.
+
+
 ****INSTALLATION:****
 
  - Go to config.json and enter your *bot token*
